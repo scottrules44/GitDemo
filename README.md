@@ -2,6 +2,8 @@
 
 This repository is used to demonstrate and practice Git commands.
 
+This line was added by the upstream repository.
+
 ## Pushing Changes
 
 The following commands are used to push changes from your workspace to the repository.
