@@ -7,7 +7,8 @@ This repository is used to demonstrate and practice Git commands.
 The following commands are used to push changes from your workspace to the repository.
 
 ```
-git commit Commit Message Here
+git add <files>
+git commit -m "Commit Message Here"
 git push origin master
 ```
 
